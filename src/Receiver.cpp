@@ -4,6 +4,8 @@
 
 #include <../Receiver.h>
 
+// Added comments
+
 Receiver* Receiver::instance = nullptr;
 
 void external_isr(){
