@@ -9,6 +9,8 @@ void setup() {
     receiver.begin();
 }
 
+// Added comments test
+
 struct Example {
     int e1;
     char e2;
