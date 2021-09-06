@@ -59,9 +59,9 @@ public:
         }
         else
             fifo_size -= 8;
-
-
     }
+
+    // This is some kind of command
 
     size_t size(){
         return fifo_size;
